@@ -1,4 +1,4 @@
-﻿# network-anaylizer- prototype 
+﻿# network-traffic-anaylizer- prototype 
 
 Setup & Usage Instructions (README.md)
 1. Prerequisites:
